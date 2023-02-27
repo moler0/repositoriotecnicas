@@ -19,3 +19,21 @@ git config --global user.email "seu email"
 // adicionar todas as alteracoes do proejtos na proximna versao
 
 git add .
+
+
+//listar todos os commits
+git log
+
+//retornar para um commit pelo id
+git reset --hard numeroidcommit
+
+//retorna para um determinado numero de commits
+
+git reset --hard head~1git
+
+//vincular com repositorio remoto
+git remote + endereco co repositorio
+
+
+//subir para repositorio
+git push
