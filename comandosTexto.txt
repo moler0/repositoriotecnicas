@@ -1,0 +1,19 @@
+//Iniciar um controle de versões
+git init
+
+//verificar atualizacoes/modificacoes no projeto
+git status
+
+//adicionar um arquivo menionado na proxima versao
+git add nomedoarquivo.extensaodoarquivo
+
+//criar a proxima versao
+git commit -m "dscricao breve da versao criada"
+
+//adicionar nome de usuario
+git config --global user.name "seu nome"
+
+//adicionar email de usuario
+git config --global user.email "seu email"
+
+
